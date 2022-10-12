@@ -15,9 +15,9 @@ LICENSE: [MIT](./license.md)
 ### [ 6. Установка VScode](./whatIs.md)
 ### [ 7. Первый проект и первая комманда](./firstproject.md)
 ### [ 8. Работа с GIT - фиксирование версии](./firstfile.md)
-### [ 9. Что такое GIT?](./whatIs.md)
-### [ 10. Что такое GIT?](./whatIs.md)
-### [ 11. Что такое GIT?](./whatIs.md)
+### [ 9. Исключения для GIT](./gitignr.md)
+### [ 10. Ветки](./branch.md)
+### [ 11. GITHUB](./github.md)
 
 ---
 
