@@ -1,4 +1,4 @@
-### [***Содержание***](./readmy.md)
+### [***Содержание***](../readmy.md)
 ---
 ## ***1. Что такое GIT***
 
@@ -7,7 +7,7 @@
 
 **GIT** для новичка это *прекрасный* способ показать свое портфолио заказчику.
 
-![git-command](./assets/developmentteam3.jpg)
+![git-command](../assets/developmentteam3.jpg)
 
 ---
 

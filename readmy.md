@@ -7,17 +7,17 @@ LICENSE: [MIT](./license.md)
 ---
 ## ***Содержание:***
 
-### [ 1. Что такое GIT?](./whatIs.md)
-### [ 2. Установка](./download.md)
-### [ 3. Терминал](./terminal.md)
-### [ 4. Работа с терминалом ](./firstterm.md)
-### [ 5. Базовые команды](./gitbasecmd.md)
-### [ 6. Установка VScode](./vscd.md)
-### [ 7. Первый проект и первая комманда](./firstproject.md)
-### [ 8. Работа с GIT - фиксирование версии](./firstfile.md)
-### [ 9. Исключения для GIT](./gitignr.md)
-### [ 10. Ветки](./branch.md)
-### [ 11. GITHUB](./github.md)
+### [ 1. Что такое GIT?](./pages/whatIs.md)
+### [ 2. Установка](./pages/download.md)
+### [ 3. Терминал](./pages/terminal.md)
+### [ 4. Работа с терминалом ](./pages/firstterm.md)
+### [ 5. Базовые команды](./pages/gitbasecmd.md)
+### [ 6. Установка VScode](./pages/vscd.md)
+### [ 7. Первый проект и первая комманда](./pages/firstproject.md)
+### [ 8. Работа с GIT - фиксирование версии](./pages/firstfile.md)
+### [ 9. Исключения для GIT](./pages/gitignr.md)
+### [ 10. Ветки](./pages/branch.md)
+### [ 11. GITHUB](./pages/github.md)
 
 ---
 

@@ -1,4 +1,4 @@
-### [***Содержание***](./readmy.md)
+### [***Содержание***](../readmy.md)
 
 ### [**< к предыдущей странице**](./firstterm.md)
 ---
@@ -9,7 +9,7 @@
 При вводе данной команды **терминал**
 выведет список команд которые применяются в большинстве проектов.
 
-![githelp](./assets/Top-19-Git-Commands-With-Examples-%E2%80%93-Part-1-01-scaled.jpg)
+![githelp](../assets/Top-19-Git-Commands-With-Examples-%E2%80%93-Part-1-01-scaled.jpg)
 
 ---
 
